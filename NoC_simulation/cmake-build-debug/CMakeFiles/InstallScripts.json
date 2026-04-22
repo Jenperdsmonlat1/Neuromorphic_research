@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/rayane/Bureau/neuromorphic_research/NoC_simulation/cmake-build-debug/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

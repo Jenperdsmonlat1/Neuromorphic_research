@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/rayane/Bureau/neuromorphic_research/NoC_simulation/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/opt/systemc/include -I/home/rayane/Bureau/neuromorphic_research/NoC_simulation/include -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles/NoC_Simulation.dir/src/main.cpp.o -c /home/rayane/Bureau/neuromorphic_research/NoC_simulation/src/main.cpp",
+  "file": "/home/rayane/Bureau/neuromorphic_research/NoC_simulation/src/main.cpp",
+  "output": "/home/rayane/Bureau/neuromorphic_research/NoC_simulation/cmake-build-debug/CMakeFiles/NoC_Simulation.dir/src/main.cpp.o"
+}
+]

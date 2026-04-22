@@ -1,0 +1,3 @@
+/home/rayane/Bureau/neuromorphic_research/NoC_simulation/cmake-build-debug/CMakeFiles/NoC_Simulation.dir
+/home/rayane/Bureau/neuromorphic_research/NoC_simulation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rayane/Bureau/neuromorphic_research/NoC_simulation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

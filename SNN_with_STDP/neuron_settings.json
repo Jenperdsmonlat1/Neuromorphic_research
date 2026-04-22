@@ -1,0 +1,7 @@
+{
+    "tau_membrane": "10e-3",
+    "tau_synapse": "10e-3",
+    "V_reset": "-70e-3",
+    "V_threshold": "-56e-3",
+    "dt": "1e-3"
+}
